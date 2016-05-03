@@ -1,0 +1,18 @@
+{
+  "name": "iframer-client",
+  "homepage": "https://github.com/egemon/iframer",
+  "authors": [
+    "ilukianov <lykianovIB@gmail.com>"
+  ],
+  "description": "Client side for iframer app",
+  "main": "main.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
